@@ -36,7 +36,7 @@
             // 
             this.btnGoogle.Location = new System.Drawing.Point(12, 12);
             this.btnGoogle.Name = "btnGoogle";
-            this.btnGoogle.Size = new System.Drawing.Size(178, 26);
+            this.btnGoogle.Size = new System.Drawing.Size(238, 26);
             this.btnGoogle.TabIndex = 0;
             this.btnGoogle.Text = "Press Here";
             this.btnGoogle.UseVisualStyleBackColor = true;
@@ -56,7 +56,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(202, 67);
+            this.ClientSize = new System.Drawing.Size(262, 63);
             this.Controls.Add(this.cbxActuallySearch);
             this.Controls.Add(this.btnGoogle);
             this.MaximizeBox = false;
